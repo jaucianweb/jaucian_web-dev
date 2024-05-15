@@ -8,7 +8,7 @@ body {
   align-items: center;
   height: 100vh;
   font-size: 13px;
-  background: #d3d3d3;
+  background: f3f3f3;
 }
 
 .container {
@@ -19,6 +19,7 @@ body {
   border-radius: 5px;
   line-height: 1.4;
   box-shadow: 2px 1px 5px 1px;
+  background: #ffff;
 }
 
 .title {
