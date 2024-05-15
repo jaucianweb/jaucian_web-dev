@@ -8,6 +8,7 @@ body {
   align-items: center;
   height: 100vh;
   font-size: 13px;
+  background: #d3d3d3;
 }
 
 .container {
